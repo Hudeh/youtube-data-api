@@ -56,6 +56,8 @@ Youtube Api for data processing
 ### Running the Server
 
 Start the development server:
+obtain your API-KEY from https://developers.google.com/youtube/v3
+YOUTUBE_API_KEY=''
 
 ```bash
 python manage.py runserver
